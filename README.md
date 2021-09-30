@@ -1,4 +1,4 @@
- https://github.com/AshishPal18/BANNER/blob/master/Banner.png
+
                       Hi there  This is Ashis Pal :)
  
         I am an Enthusiastic and social person who loves to take up new challenges and learn new skills 
