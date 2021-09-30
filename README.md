@@ -9,3 +9,6 @@
 - 📫 How to reach me: ashishpal2023.geu@gmail.com
 -
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishPal18)](https://github.com/AshishPal18/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishPal18&show_icons=true&theme=radical)
+
