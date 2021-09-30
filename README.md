@@ -8,14 +8,7 @@
 - 💬 Ask me about C++ and Python
 - 📫 How to reach me: ashishpal2023.geu@gmail.com
 -
-
-
-![AshishPal18's GitHub stats](https://www.linkedin.com/in/ashish-pal-b4bb541b6/detail/background-image/)
-
-### Hi there 👋, my name is Ashish Pal
-#### I am 
-![I am ](https://www.linkedin.com/in/ashish-pal-b4bb541b6/detail/background-image/)
-
+![Ashish_pal_18's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishPal18&show_icons=true&theme=radical)
 
 
 
