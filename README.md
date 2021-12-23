@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Pal</h1>
+<img src=https://github.com/AshishPal18/BANNER/blob/master/Banner.png?raw=true width="100%" height="100%" />
 <h3 align="center">A Passionate Active Learner... :)</h3>
-<img src=https://github.com/AshishPal18/BANNER/blob/master/Banner.png?raw=true width="200" height="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpal18&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpal18" /> </p>
 
