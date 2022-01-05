@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpal18&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpal18" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AshishPal18](https://github.com/AshishPal18)
+- 👨‍💻 All of my projects are available at :  https://github.com/AshishPal18/Projects/blob/main/Ashish_18
 
 - 💬 Ask me about **C++ , Python**
 
