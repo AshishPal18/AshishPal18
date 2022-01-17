@@ -8,11 +8,11 @@
 - 🔭 I’m currently working on : **Full Stack Web Development**
 
 - 🌱 I’m currently learning  :  **Data Structures and Algorithms**
-- 
+
 - 👨‍💻 Projects List :  https://github.com/AshishPal18/Projects
 
 - 💬 Ask me about : **C++ , Python**
-- 
+ 
 -  👯 Open to :  **collaborate**
 
 - 💼 Actively Seeking : **internship opportunities**
