@@ -3,6 +3,7 @@
 <h3 align="center">A Passionate Active Learner... :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpal18&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpal18" /> </p>
+<img src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif" align="right"  width="42%"/>
 
 - 👨‍💻 All of my projects are available at :  https://github.com/AshishPal18/Projects
 
