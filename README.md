@@ -1,4 +1,4 @@
-<h1><img src=https://github.com/AshishPal18/BANNER/blob/master/Banner.png?raw=true width="100%" height="100%" border-radius: 50%/></h1>
+<h1><img src=https://github.com/AshishPal18/BANNER/blob/master/Banner.png?raw=true width="100%" height="100%"/></h1>
 <h1 align="center">Hi 👋, I'm Ashish Pal</h1>
 <h3 align="center">A Passionate Active Learner... :)</h3>
 
