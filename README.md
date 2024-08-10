@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Active Learner... :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpal18&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpal18" /> </p>
-<img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" align="right"  width="42%"/>
+<img src="https://camo.githubusercontent.com/d4fa02abc45ed240d9766f5588f7e387676e43a9d8a4e6b8c458560987cca846/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966" align="right"  width="42%"/>
 
 - 🔭 I’m currently working on : **Full Stack Web Development**
 
